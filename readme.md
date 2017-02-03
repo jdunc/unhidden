@@ -21,9 +21,10 @@ The target audience of this project is anyone who's seeking peace, happiness, re
 
 ###Additional Resources
 
-<a href="http://www.usatoday.com/story/life/people/2017/01/17/prince-william-duchess-kate-prince-harry-mental-health-heads-together-campaign-briefing/96661008/">USA Today: Prince William Urges People to Discuss Mental Health</a>
-<a href="http://content.healthaffairs.org/content/early/2016/05/13/hlthaff.2015.1659">Health Affairs: Patients Spent $201 Billion on Mental Health in 2016</a>
-<a href="http://www.usatoday.com/story/news/politics/2017/01/08/obamacare-repeal-jeopardizes-mental-health-addiction-coverage/96199628/"> USA Today: Mental Health Coverage In Jeopardy</a>
+* <a href="http://www.usatoday.com/story/life/people/2017/01/17/prince-william-duchess-kate-prince-harry-mental-health-heads-together-campaign-briefing/96661008/">USA Today: Prince William Urges People to Discuss Mental Health</a>
+* <a href="http://content.healthaffairs.org/content/early/2016/05/13/hlthaff.2015.1659">Health Affairs: Patients Spent $201 Billion on Mental Health in 2016</a>
+* <a href="http://www.usatoday.com/story/news/politics/2017/01/08/obamacare-repeal-jeopardizes-mental-health-addiction-coverage/96199628/"> USA Today: Mental Health Coverage In Jeopardy</a>
+
 <a href=""> </a>
 <a href=""> </a>
 <a href=""> </a>
